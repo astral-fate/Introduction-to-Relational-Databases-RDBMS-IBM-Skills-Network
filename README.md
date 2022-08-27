@@ -106,65 +106,60 @@ System schemas contain partitions and user schemas contain metadata.
 
 Both schemas contain the same objects.
 
-11.
-Question 11
-What statement best describes phpMyAdmin?
 
-It is an admin tool that manages users and their access permissions.
+### What statement best describes phpMyAdmin?
 
-It is a cloud-based tool used to access MySQL.
+- [ ] It is an admin tool that manages users and their access permissions.
 
-It is a graphical user interface (GUI) to interact with MySQL. (true)
+- [ ] It is a cloud-based tool used to access MySQL.
 
-It is a command line interface.
+- [x] It is a graphical user interface (GUI) to interact with MySQL. 
 
-12.
-Question 12
-Which of the following allows you to create a MySQL database? Select two.
+- [ ] It is a command line interface.
 
-Use an API call.
 
-Use the CREATE DATABASE command from a command line interface. (true)
+### Which of the following allows you to create a MySQL database? Select two.
 
-Use the MySQL GUI tool. (what else)
+- [x ] Use an API call.
 
-Use the CREATE TABLE command from a command line interface.
+- [ x] Use the CREATE DATABASE command from a command line interface. 
 
-13.
-Question 13
-What does the “-u root” option in this command do?  mysqldump -u root employees > employeebackup.sql
+- [ ] Use the MySQL GUI tool. (what else)
 
-Specifies the username “root” when connecting to the server
+- [ ] Use the CREATE TABLE command from a command line interface.
 
-Uses the root directory to find the database file that is to be backed up
 
-Lists users who have access to the root directory
+### What does the “-u root” option in this command do?  mysqldump -u root employees > employeebackup.sql
 
-Uses the root directory to back up the database on the server
+- [ ] Specifies the username “root” when connecting to the server
 
-14.
-Question 14
-Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
+- [ ] Uses the root directory to find the database file that is to be backed up
 
-phpAdmin
+- [ ] Lists users who have access to the root directory
 
-pgAdmin
+- [ ] Uses the root directory to back up the database on the server
 
-MySQL
 
-PostgresSQL
+### Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
 
-15.
-Question 15
-How do you create views?
+- [ ] phpAdmin
 
-Using the mySQL admin tool
+- [ ] pgAdmin
 
-Using the PostgreSQL GUI tool
+- [ ] MySQL
 
-From SQL code
+- [ ] PostgresSQL
 
-From an entity relationship diagram
+
+#### How do you create views?
+
+- [ ] Using the mySQL admin tool
+
+- [ ] Using the PostgreSQL GUI tool
+
+- [ ] From SQL code
+
+- [ ] From an entity relationship diagram
 
 #### 16. Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
 
