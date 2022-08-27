@@ -120,9 +120,9 @@ Both schemas contain the same objects.
 
 ### Which of the following allows you to create a MySQL database? Select two.
 
-- [x ] Use an API call.
+- [x] Use an API call.
 
-- [ x] Use the CREATE DATABASE command from a command line interface. 
+- [x] Use the CREATE DATABASE command from a command line interface. 
 
 - [ ] Use the MySQL GUI tool. (what else)
 
@@ -161,7 +161,7 @@ Both schemas contain the same objects.
 
 - [ ] From an entity relationship diagram
 
-#### 16. Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
+#### Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
 
 
 - [ ] phpAdmin
@@ -170,7 +170,7 @@ Both schemas contain the same objects.
 - [x] pgAdmin
 
 
-#### 16. Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
+#### Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
 
 
 - [ ] phpAdmin
@@ -178,4 +178,31 @@ Both schemas contain the same objects.
 - [ ] MySQL
 - [x] pgAdmin
 
+
+
+### Which of the following is an open source database?
+- [ ] Db2
+- [ ] BigQuery
+- [x] PostgreSQL
+- [ ] Oracle
+
+
+### The DBMS on the server in a 2-tier environment includes multiple layers. Which layer is also referred to as the persistence layer?
+- [ ] Database Engine layer
+- [ ] Data Access layer
+- [x] Database Storage layer
+- [ ] Transmission layer
+
+### Which statement is true about an entity-attribute model regarding a movie?
+The movie is a primary key.
+
+- [x] The movie is an entity.
+
+- [ ] The movie is a column.
+
+- [ ] The movie is an attribute.
+
+
+###  Which statement best describes the Db2 Warehouse deployment model?
+- [ ] 
 
