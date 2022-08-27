@@ -4,112 +4,99 @@ final quiz
 Columns
 
 
-Question 1
-Data types define the type of data that can be stored in which part of a database table?
+#### Data types define the type of data that can be stored in which part of a database table?
 
-Rows (true)
 
-Schemas
+- [ ] Index
+- [ ] Schemas
+- [x] Rows
 
-Index
+#### In which decade did relational databases become a commercial success?
 
-2.
-Question 2
-In which decade did relational databases become a commercial success?
+- [ ] 1970s
+- [ ] 1990s
+- [ ] 2000s
+- [x] 1980s 
 
-1970s
 
-1990s
+#### What are the three tiers of a three-tier architecture database management system (DBMS)?
 
-2000s
+- [x] Database storage, application server, and user interface (true)
 
-1980s (true)
+- [ ] Database storage, API, and user interface
 
-3.
-Question 3
-What are the three tiers of a three-tier architecture database management system (DBMS)?
+- [ ] Database server, middleware, and application server
 
-Database storage, application server, and user interface (true)
+- [ ] Database server, user interface, and network
 
-Database storage, API, and user interface
 
-Database server, middleware, and application server
+#### Which statement is true with regards to PostgreSQL?
 
-Database server, user interface, and network
+- [x] It supports inheritance and overloading. (true)
 
-Question 4
-Which statement is true with regards to PostgreSQL?
+- [ ] It is a NoSQL database management system (DBMS).
 
-It supports inheritance and overloading. (true)
+- [ ] It is proprietary software.
 
-It is a NoSQL database management system (DBMS).
+- [ ] It is object oriented.
 
-It is proprietary software.
 
-It is object oriented.
+#### Which symbol is used to indicate an entity has more than one relationship in a relationship set when creating an entity-relationship diagram (ERD)?
 
-Question 5
-Which symbol is used to indicate an entity has more than one relationship in a relationship set when creating an entity-relationship diagram (ERD)?
+- [ ] A less-than sign
 
-A less-than sign
+- [ ] A dashed line
 
-A dashed line
+- [ ] A greater-than sign (not
 
-A greater-than sign (not
+- [ ] A thick line
 
-A thick line
 
-6.
-Question 6
-Which of the following Db2 features can be used to improve performance and reduce overheads for analytic workloads by directing queries to specific columns?
+#### Which of the following Db2 features can be used to improve performance and reduce overheads for analytic workloads by directing queries to specific columns?
 
-Column Store
+- [ ] Column Store
 
-Data Skipping
+- [ ] Data Skipping
 
-Machine Learning Algorithms
+- [ ] Machine Learning Algorithms
 
-The Common SQL Engine (not
+- [ ] The Common SQL Engine (not
 
-7.
-Question 7
-When creating a foreign key, how can you define an action to take if a parent table row is updated?
 
-Use the ALTER TABLE command
+#### When creating a foreign key, how can you define an action to take if a parent table row is updated?
 
-Use the rule clause  (true)
+- [ ]  Use the ALTER TABLE command
 
-Use the ON DELETE CASCADE clause
+- [x] Use the rule clause  (true)
 
-Use the CREATE TABLE command
+- [ ] Use the ON DELETE CASCADE clause
 
-8.
-Question 8
-Which of the following is an advantage of indexing?
+- [ ] Use the CREATE TABLE command
 
-Indexing quickly locates rows and reduces the need to sort the data.
 
-Indexing works well with unstructured data. (true)
+####  Which of the following is an advantage of indexing?
 
-Indexing quickly sorts data in a table.
+- [ ]  Indexing quickly locates rows and reduces the need to sort the data.
 
-Indexing increases performance of INSERT and UPDATE queries.
+- [x] Indexing works well with unstructured data. 
 
-9.
-Question 9
-Which of the following is the best example illustrating data that fails the entity integrity constraint?
+- [ ] Indexing quickly sorts data in a table.
 
-EmployeeID: NULL (true)
+- [ ] Indexing increases performance of INSERT and UPDATE queries.
 
-Primary key is duplicated
 
-City: Alaska
+#### Which of the following is the best example illustrating data that fails the entity integrity constraint?
 
-Birth Date: 01/03/19782
+- [ x] EmployeeID: NULL (true)
 
-10.
-Question 10
-What is the difference between system schemas and user schemas?
+- [ ] Primary key is duplicated
+
+- [ ] City: Alaska
+
+- [ ] Birth Date: 01/03/19782
+
+
+#### What is the difference between system schemas and user schemas?
 
 Neither schema contains database objects.
 
@@ -179,5 +166,21 @@ From SQL code
 
 From an entity relationship diagram
 
+#### 16. Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
+
+
+- [ ] phpAdmin
+- [ ] PostgresSQL
+- [ ] MySQL
+- [x] pgAdmin
+
+
+#### 16. Which of the following programs contains an ERD tool that you can use to create an ERD for an existing database?
+
+
+- [ ] phpAdmin
+- [ ] PostgresSQL
+- [ ] MySQL
+- [x] pgAdmin
 
 
