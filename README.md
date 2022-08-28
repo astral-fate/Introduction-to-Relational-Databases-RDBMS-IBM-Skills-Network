@@ -205,4 +205,7 @@ The movie is a primary key.
 
 ###  Which statement best describes the Db2 Warehouse deployment model?
 - [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
